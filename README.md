@@ -3,8 +3,8 @@ XHAW5112
 MILESTONE 3	
 Below is the detailed explanation of milestone 3
 ST10447252- Angel Khumalo
-Add member.
-Add member.	
+ST10453453- Itumeleng Modiselle
+ST10458352- Nanogang Mahuma	
 
  
 Mobile Application
@@ -124,6 +124,44 @@ o	Contact Details.
 o	User adds courses to the cart from any course detail page.
 o	Cart Icon (always visible) → View Cart.
 o	Checkout Page → Show total fees, request contact details, and submit the request for course booking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 Reference List/Bibliography
 
